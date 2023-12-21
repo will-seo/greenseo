@@ -1,4 +1,4 @@
 # greenseo
 greenseo
 
-HTML that controls http://greenseo.org/
+HTML that controls https://greenseo.org/
