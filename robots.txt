@@ -1,68 +1,19 @@
 User-agent: Google-Extended
-Disallow: /
-
 User-agent: anthropic-ai
-Disallow: /
-
 User-agent: Applebot-Extended
-Disallow: /
-
-User-agent: AwarioRssBot
-Disallow: /
-
-User-agent: AwarioSmartBot
-Disallow: /
-
 User-agent: Bytespider
-Disallow: /
-
-User-agent: ClaudeBot
-Disallow: /
-
+User-agent: CCBot
 User-agent: Claude-Web
-Disallow: /
-
-User-agent: cohere-ai
-Disallow: /
-
-User-agent: DataForSeoBot
-Disallow: /
-
+User-agent: ClaudeBot
 User-agent: Diffbot
-Disallow: /
-
 User-agent: FacebookBot
-Disallow: /
-
-User-agent: magpie-crawler
-Disallow: /
-
-User-agent: NewsNow
-Disallow: /
-
-User-agent: news-please
-Disallow: /
-
-User-agent: omgili
-Disallow: /
-
-User-agent: omgilibot
-Disallow: /
-
-User-agent: peer39_crawler
-Disallow: /
-
-User-agent: PerplexityBot
-Disallow: /
-
+User-agent: GPTBot
+User-agent: HTTrack
+User-agent: Nutch
+User-agent: Offline Explorer
 User-agent: Scrapy
-Disallow: /
-
-User-agent: TurnitinBot
-Disallow: /
-
-User-agent: ImagesiftBot
-Disallow: /
-
 User-agent: YouBot
+User-agent: anthropic-ai
+User-agent: cohere-ai
+User-agent: omgili
 Disallow: /
