@@ -16,4 +16,5 @@ User-agent: YouBot
 User-agent: anthropic-ai
 User-agent: cohere-ai
 User-agent: omgili
+User-agent: thisisnotabrowser
 Disallow: /
